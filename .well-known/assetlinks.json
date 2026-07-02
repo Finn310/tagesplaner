@@ -1,0 +1,8 @@
+[{
+      "relation": ["delegate_permission/common.handle_all_urls"],
+      "target": {
+        "namespace": "android_app",
+        "package_name": "io.github.finn310.twa",
+        "sha256_cert_fingerprints": ["69:63:01:E5:78:88:BE:AE:9C:89:84:6E:39:91:A7:BA:D6:A8:4A:37:49:6D:25:05:6D:C8:D6:C4:90:ED:19:C0"]
+      }
+    }]
