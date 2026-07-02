@@ -3,6 +3,6 @@
       "target": {
         "namespace": "android_app",
         "package_name": "io.github.finn310.twa",
-        "sha256_cert_fingerprints": ["69:63:01:E5:78:88:BE:AE:9C:89:84:6E:39:91:A7:BA:D6:A8:4A:37:49:6D:25:05:6D:C8:D6:C4:90:ED:19:C0"]
+        "sha256_cert_fingerprints": ["04:6D:60:7D:10:F6:50:3A:22:1D:EB:75:8F:F6:9A:18:90:1E:C5:F0:99:5F:7B:D1:D6:0B:2A:38:AE:DF:B4:67"]
       }
     }]
